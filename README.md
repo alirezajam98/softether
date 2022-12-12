@@ -1,4 +1,4 @@
-# SoftEther Configuration : کانفیگ 
+#Configuration : کانفیگ 
 
 
 ###### Video : لینک ویدیو یوتیوب
